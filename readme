@@ -1,0 +1,25 @@
+Digital Grocery Store
+
+1. Project Overview
+
+For this project I designed a Digital Grocery Store. IT is a three-page website that creates a small online grocery shopping experience. The first page shows different food items on supermarket shelves, the second page shows the items inside a shopping cart, and the last page is a receipt showing the items, quantities, and prices.
+
+I mainly used HTML and CSS to build the website. I used CSS Grid differently on each page to organize the images and create the layouts. I also used links between the HTML pages so users can move through the store, cart, and receipt by clicking on buttons.
+
+The project includes three HTML files (index.html, page2.html, and page3.html), one CSS file (style.css), and an images folder containing the food images and background images.
+
+
+2. AI Tools or Other Resources
+
+I used AI during this project for image generation. I used it to generate the three supermarket background images, so the store shelf, shopping cart, and receipt could have a similar visual style.
+
+Some example prompts I used for image generation were:
+- "Generate a colorful cartoon-style supermarket with empty shelves so I can add my own grocery items."
+- "Create a supermarket shopping cart background in the same style, with a large empty cart in the center."
+- "Create a vertical supermarket receipt background with a large blank receipt in the center."
+
+I also used AI to debug some problems that came up while coding:
+- "Why does my background image get cropped when I use `background-size: cover`?"
+- "How can I make a long vertical background image scroll instead of fitting it into one screen?"
+- "Why does changing `grid-column` move my image too far, and how can I make smaller position adjustments?"
+- "How can I keep a navigation button fixed in the corner while the page scrolls?"
